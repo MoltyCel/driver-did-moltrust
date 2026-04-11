@@ -1,0 +1,19 @@
+{
+  "name": "driver-did-moltrust",
+  "version": "1.0.0",
+  "description": "Universal Resolver driver for did:moltrust DIDs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["did", "moltrust", "universal-resolver", "w3c", "decentralized-identity"],
+  "author": "CryptoKRI GmbH <info@moltrust.ch>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoltyCel/driver-did-moltrust"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
